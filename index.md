@@ -3,5 +3,7 @@
 旗振り当番予約管理アプリ「YokoSee」に関するプライバシーポリシーです。
 以下のリンクより内容をご確認ください。
 - [プライバシーポリシー（個人情報保護方針）](privacy-policy.md)
+- [Privacy Policy (English)](privacy-policy-en.md)
+
 
 YokoSee運営チーム
