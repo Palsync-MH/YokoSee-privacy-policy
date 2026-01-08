@@ -94,4 +94,4 @@ https://policies.google.com/privacy
 
 ---
 
-**制定日：2025年12月1日**
+**制定日：2026年1月7日**
