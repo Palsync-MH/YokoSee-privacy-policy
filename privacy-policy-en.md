@@ -102,4 +102,4 @@ https://policies.google.com/privacy
 
 ---
 
-**Established on: December 1, 2025**
+**Established on: January 7, 2026**
