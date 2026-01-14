@@ -1,8 +1,7 @@
 # Privacy Policy
 
-Palsync (hereinafter referred to as "we", "us", or "our") establishes this Privacy Policy to explain how we collect, use, manage, and protect users’ personal information in accordance with applicable laws and regulations.
-
-This Privacy Policy describes what personal information we collect, how it is used and shared, and how users can manage their personal information.
+Palsync (hereinafter referred to as "we", "us", or "our") establishes this Privacy Policy to explain how we collect, use, and manage users’ personal information.  
+This policy describes the types of personal information we collect, the purposes of use, and how such information is handled.
 
 ---
 
@@ -15,62 +14,55 @@ This Privacy Policy describes what personal information we collect, how it is us
 
 ## 2. Personal Information We Collect
 
-We may collect personal information when users register for or use our services, including but not limited to:
-
-- Name  
-- Phone number  
-- Email address  
-- Other information that can identify an individual  
+When users use this service, we may collect personal information such as name, phone number, email address, and other information that can identify an individual.
 
 ---
 
 ## 3. Purpose of Use of Personal Information
 
-We use the collected personal information for the following purposes:
+We use the collected personal information only for the following purposes:
 
-- To provide and operate our services  
-  (including user identification, necessary communications, customer support, and system maintenance, management, and backup)
-- To improve services, enhance quality, and support development
-- To deliver advertisements and optimize their effectiveness
-- To comply with laws and regulations and prevent unauthorized or fraudulent use
+- To provide and operate the service  
+  (including user identification, necessary communications, inquiry responses, system maintenance, management, and backups)
+- To improve service quality and develop new features
+- To deliver advertisements and measure and optimize their effectiveness
+- To comply with laws and regulations and prevent fraudulent use
 
-If the purpose of use is changed, such changes will be limited to cases where there is reasonable relevance to the original purpose.  
-We will notify users or publicly announce the updated purpose using an appropriate method.
+If we change the purpose of use, we will do so only within a scope reasonably related to the original purpose and will notify or publish the updated purpose by an appropriate method.
 
 ---
 
 ## 4. Security Measures for Personal Information
 
-We strive to keep personal information accurate and up to date and implement appropriate security measures to prevent unauthorized access, alteration, leakage, loss, or damage.
+We strive to keep personal information accurate and up to date and take necessary and appropriate security measures to prevent unauthorized access, alteration, leakage, loss, or damage.
 
 ---
 
 ## 5. Provision of Personal Information to Third Parties and Outsourcing
 
-We do not provide personal information to third parties without the user’s consent, except when required by laws or regulations.
+We will not provide personal information to third parties without user consent, except as required by law.
 
-However, we may outsource all or part of the handling of personal information to third-party service providers to the extent necessary for the operation of our services.
-
-In such cases, we will enter into appropriate agreements with such service providers and exercise necessary and appropriate supervision to ensure proper management of personal information.
-
----
-
-## 6. Handling of Anonymously Processed Information
-
-If we create anonymously processed information (information that cannot identify a specific individual and cannot be restored), we will:
-
-- Process the information appropriately in accordance with legal standards
-- Implement security management measures as required by law
-- Disclose the categories of personal information included in the anonymously processed information
-- Not identify individuals by comparing such information with other data
+However, we may outsource part or all of the handling of personal information to third-party service providers as necessary for service operation.  
+In such cases, we will ensure appropriate supervision by concluding contracts regarding the handling of personal information.
 
 ---
 
-## 7. Disclosure, Correction, and Suspension of Use of Personal Information
+## 6. Handling of Anonymized Information
 
-If a user requests disclosure of their personal information, we will respond without delay after confirming the identity of the requester.
+If we create anonymized information that cannot identify a specific individual and cannot be restored, we will:
 
-Users may also request notification of the purpose of use, correction, addition, deletion, suspension of use, or suspension of provision to third parties by contacting the inquiry desk below.
+- Process the information appropriately in accordance with applicable laws
+- Implement necessary security management measures
+- Disclose the categories of information included in the anonymized data
+- Not use the information to identify individuals by matching it with other data
+
+---
+
+## 7. Disclosure, Correction, and Other Requests Regarding Personal Information
+
+Upon request from the individual, we will disclose personal information after verifying the requester’s identity without delay.
+
+If users wish to be notified of the purpose of use, or request correction, addition, deletion, suspension of use, or suspension of third-party provision of personal information, please contact us at the address below.
 
 Please note that a reasonable fee may be charged for disclosure or notification of the purpose of use.
 
@@ -81,25 +73,40 @@ palsync.mh@gmail.com
 
 ## 8. Use of Cookies
 
-Our website may use cookies to improve user convenience and to analyze usage trends.
+Our website may use cookies to improve usability and understand usage trends.
 
-Cookies do not contain information that identifies individuals.  
-Users can disable cookies through their browser settings.
+Cookies do not contain information that can identify individuals, and users can disable cookies through their browser settings.
 
 ---
 
 ## 9. Use of External Services (Firebase)
 
-We use the following external services to provide and improve our services:
+To provide and improve this service, we use the following external services:
 
 - **Google Firebase**  
-  (Authentication, data storage, analytics, crash reporting, etc.)
+  (authentication, data storage, analytics, crash reporting, etc.)
 
 Information collected through Firebase is managed by Google LLC in accordance with its privacy policy.
 
-For more information about Google’s privacy practices, please refer to:  
+Please refer to Google’s Privacy Policy below:  
 https://policies.google.com/privacy
 
 ---
 
-**Established on: January 7, 2026**
+## 10. Account Deletion and Deletion of Personal Information
+
+Users may request deletion of their account and the personal information associated with the account used in this service.
+
+To request account deletion, please contact us at the email address below.
+
+**Account Deletion Request Contact**  
+palsync.mh@gmail.com
+
+When making a request, please specify the email address registered with the service and indicate that you wish to delete your account.  
+After verifying your identity, we will delete your account and associated personal information within a reasonable period.
+
+Please note that certain information may be retained if required by applicable laws and regulations.
+
+---
+
+**Effective Date: January 7, 2026**
