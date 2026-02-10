@@ -27,6 +27,7 @@ We use the collected personal information only for the following purposes:
 - To improve service quality and develop new features
 - To deliver advertisements and measure and optimize their effectiveness
 - To comply with laws and regulations and prevent fraudulent use
+- To send push notifications, including "Monitoring Duty Reminders" and other important service updates.
 
 If we change the purpose of use, we will do so only within a scope reasonably related to the original purpose and will notify or publish the updated purpose by an appropriate method.
 
