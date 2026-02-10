@@ -14,7 +14,7 @@ This policy describes the types of personal information we collect, the purposes
 
 ## 2. Personal Information We Collect
 
-When users use this service, we may collect personal information such as name, phone number, email address, and other information that can identify an individual.
+When users use this service, we may collect personal information such as name, phone number, email address, device identifiers (such as Firebase Cloud Messaging (FCM) tokens for push notifications), and other information that can identify an individual.
 
 ---
 
